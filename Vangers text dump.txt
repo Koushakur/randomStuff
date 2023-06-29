@@ -17,7 +17,7 @@ Index:
 -B-Zone-
 -B-Zone- Q&A
 -Spobs-
--Threall
+-Threall-
 -Poponkas-
 -Tabutasks-
 -Passengers-
@@ -5890,6 +5890,7 @@ As planned, the vanger's 'mechos' accommodated the maximum number of Nucleobooms
 Compendium: Vanger's participation in the competition has boosted ratings by 44%. Faith in the Buro has risen by 12%, conviction in Beeboorat ultimate victory by 1%. 
 Registered signs of spectator elation: 22 cases of falling off the stands, 45 cases of tearing off one's own limbs, 2677 screams of excitement.
 
+
 [Final 2]
 SHIFT 83.12.99 00:01:83
 Section N13 - Line 17 - Stand EE-7855/3420.bis. 
@@ -5904,6 +5905,7 @@ Data from logic analyzer: a defect was found in the object, a fatal tendency to 
 Data from garbage collector: resources from the object after self-destruct have been freed and re-used.
  
 Error codes: 000, 001, 002, 003, 004, 023, 08338, 0293939.
+
 
 [Final 3]
 External Thoughts Received En Route to Earth... 
@@ -5960,6 +5962,7 @@ Infernal Event Control> Off...
 Infernal Reality Stabilizer> Off... 
 Infernal Resuscitation of the Exposed> Off... 
 Infernal Distribution of Raw Material> Off...
+
 
 [Final 5]
 External Thoughts Received En Route to Earth... 
